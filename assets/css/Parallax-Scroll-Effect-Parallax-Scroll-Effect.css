@@ -1,7 +1,7 @@
 #box-1 {
   height: 100vh;
   width: 100%;
-  background-image: url(../../assets/img/275129897_153352250459681_8945893394953705101_n.jpg);
+  background-image: url(/assets/img/275129897_153352250459681_8945893394953705101_n.jpg?h=0565a5f72513328d27d88d41e610afa5);
   background-size: cover;
   display: table;
   background-attachment: fixed;
@@ -10,7 +10,7 @@
 #box-2 {
   height: 100vh;
   width: 100%;
-  background-image: url(../../assets/img/293196532_184554764006096_5289643188473178651_n.jpg);
+  background-image: url(/assets/img/293196532_184554764006096_5289643188473178651_n.jpg?h=76fe70c1861d76ddeec07f1d4d949023);
   background-size: cover;
   display: table;
   background-attachment: fixed;
@@ -19,7 +19,7 @@
 #box-3 {
   height: 100vh;
   width: 100%;
-  background-image: url(../../assets/img/283750230_172132885248284_3456289103784608050_n.jpg);
+  background-image: url(/assets/img/283750230_172132885248284_3456289103784608050_n.jpg?h=91426ccf74aba07910edd66ef914347f);
   background-size: cover;
   display: table;
   background-attachment: fixed;
